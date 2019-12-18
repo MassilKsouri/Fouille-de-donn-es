@@ -3,7 +3,7 @@
 pour ouvire le fichier 'Projet Fouille de Données.IPYNB' vous devez disposer de l'application web jupyter notebook (disponible en l'occurrence sur le navigateur Anaconda )
 
 ## Partie DataSet :
--	 Data sete représente des données d'un accéléromètre portable monté sur la poitrine.  
+-	 Dataset représente des données d'un accéléromètre portable monté sur la poitrine.  
 -	 Fréquence d'échantillonnage de l’accéléromètre : 52 Hz.
 -	 Les données de l'accéléromètre ne sont pas étalonnées
 -	 Nombre de participants : 15

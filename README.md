@@ -1,6 +1,6 @@
 # Fouille-de-donnees
 ## Partie Exécution :
-pour ouvire le fichier 'Projet Fouille de Données.IPYNB' vous devez disposer de l'application web jupyter notebook (disponible en l'occurrence sur le navigateur Anaconda )
+Pour ouvrir le fichier 'Projet Fouille de Données.IPYNB' vous devez disposer de l'application web jupyter notebook (disponible en l'occurrence sur le navigateur Anaconda )
 
 ## Partie DataSet :
 -	 Dataset représente des données d'un accéléromètre portable monté sur la poitrine.  
